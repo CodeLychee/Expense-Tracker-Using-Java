@@ -71,14 +71,13 @@
 - **`UserInfo.java`**: Manages user accounts, including their credentials and associated expenses.
 
 ### Screenshots
+![User Login and Registration](https://github.com/user-attachments/assets/830f2655-fa34-44c8-bf80-6c6d4e840f9f)
 
-![Login Screen](![User Login and Registration](https://github.com/user-attachments/assets/e0b2dbec-24d1-41a2-a997-7e694df40fa8)
-link-to-screenshot1)
 *Login Screen*
 
-![Main Dashboard](link-to-scre![dashboard](https://github.com/user-attachments/assets/585b1bc4-f5c8-4bf5-a195-3c00145686cf)
-enshot2)
-*Main Dashboard*
+![dashboard](https://github.com/user-attachments/assets/a4899426-e250-4c9f-b726-39d9914ad0d7)
+
+*User Dashboard*
 
 ## Contributing
 
