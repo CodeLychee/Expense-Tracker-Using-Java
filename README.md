@@ -35,7 +35,7 @@
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd ExpenseTracker
+   cd YourFileLocation\ExpenseTracker\ExpenseTracker\src\main\java\com\expensetracker
    ```
 3. **Compile and run the project:**
    - Open the project in your preferred IDE.
@@ -72,10 +72,12 @@
 
 ### Screenshots
 
-![Login Screen](link-to-screenshot1)
+![Login Screen](![User Login and Registration](https://github.com/user-attachments/assets/e0b2dbec-24d1-41a2-a997-7e694df40fa8)
+link-to-screenshot1)
 *Login Screen*
 
-![Main Dashboard](link-to-screenshot2)
+![Main Dashboard](link-to-scre![dashboard](https://github.com/user-attachments/assets/585b1bc4-f5c8-4bf5-a195-3c00145686cf)
+enshot2)
 *Main Dashboard*
 
 ## Contributing
