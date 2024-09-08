@@ -35,11 +35,11 @@
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd expense-tracker
+   cd ExpenseTracker
    ```
 3. **Compile and run the project:**
    - Open the project in your preferred IDE.
-   - Run the `ExpenseManager` class.
+   - Run the `ExpenseManager.java` class.
 
 ### Running the Application
 
