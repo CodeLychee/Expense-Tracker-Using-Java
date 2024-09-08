@@ -31,7 +31,7 @@
 
 1. **Clone the repository:**
    ```sh
-   https://github.com/CodeLychee/Expense-Tracker-Using-Java.git
+    git clone https://github.com/CodeLychee/Expense-Tracker-Using-Java.git
    ```
 2. **Navigate to the project directory:**
    ```sh
